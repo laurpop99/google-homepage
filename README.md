@@ -1,0 +1,2 @@
+This project reflects my knowledge that I've achieved from the Odin Project curriculum. As I've only progressed over HTML & CSS, this project will focus on strengthening my programming abilities and making sure that my brain gets enough practice over all the lessons that I've learned.
+This is just the introduction and I hope the project itself will end up nicely. :)
